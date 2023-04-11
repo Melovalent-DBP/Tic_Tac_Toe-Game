@@ -1,0 +1,18 @@
+# Tic_Tac_Toe-Game
+
+A tic-tac-toe game that enables to play between two players and also shows the reasult in file.
+
+1)It is a CLI based programm that takes input one by one and gives the output.
+2)On starting the game , it shows the grid of the game with a transition effect
+3)Then continuously takes input of numbers from users one by one. For example: 
+  cout << "     |     |      \n";
+  cout << "  1  |  2  |  3   \n";
+  cout << "_____|_____|_____ \n";
+  cout << "     |     |      \n";
+  cout << "  4  |  5  |  6   \n";
+  cout << "_____|_____|_____ \n";
+  cout << "     |     |      \n";
+  cout << "  7  |  8  |  9   \n";
+  cout << "     |     |      \n\n";   here are the numbers .
+ 4)After the game is over , a sentence is shown as result "Player (1/2) is winner" or "There is a tie"
+ 5)Moreover the game also saves the continuous game steps in a text file .
