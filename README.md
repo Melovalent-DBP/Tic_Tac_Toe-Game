@@ -15,11 +15,13 @@ To get started with the game, follow these steps:
 
 1. Clone the repository: 
 2. Navigate to the project directory: 
-3. Run the game: Tic-tac-toe.cpp
+3. Run the game: Tic_tac_toe_game.cpp
 ## Game Rules
 
-1)On starting the game , it shows the grid of the game with a transition effect
-2)Then continuously takes input of numbers from users one by one. For example: 
+1. On starting the game , it shows the grid of the game with a transition effect
+
+2. Then continuously takes input of numbers from users one by one. For example: 
+
   cout << "     |     |      \n";
   cout << "  1  |  2  |  3   \n";
   cout << "_____|_____|_____ \n";
@@ -29,5 +31,6 @@ To get started with the game, follow these steps:
   cout << "     |     |      \n";
   cout << "  7  |  8  |  9   \n";
   cout << "     |     |      \n\n";   here are the numbers .
- 3)After the game is over , a sentence is shown as result "Player (1/2) is winner" or "There is a tie"
- 4)Moreover the game also saves the continuous game steps in a text file .
+ 3. After the game is over , a sentence is shown as result "Player (1/2) is winner" or "There is a tie"
+ 
+ 4. Moreover the game also saves the continuous game steps in a text file .
